@@ -47,10 +47,7 @@ Pins Used:
 See Block_Diagram.png
 <img width="940" height="536" alt="image" src="https://github.com/user-attachments/assets/d892fdd8-ac56-44ac-b241-c09b62cf64ac" />
 
-```
-
----
-
+``
 ## Working Principle
 
 1. MPU6050 continuously measures acceleration values.
