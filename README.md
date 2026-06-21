@@ -44,16 +44,18 @@ Pins Used:
 
 ## Block Diagram
 
+```text
 MPU6050 Accelerometer
-        |
-        | I2C
-        v
-      ESP32
-        |
-  ------------------
-  |       |       |
-  v       v       v
+          |
+          | I2C
+          v
+        ESP32
+          |
+   ----------------
+   |      |       |
+   v      v       v
  OLED    LED   BUZZER
+```
 
 ---
 
