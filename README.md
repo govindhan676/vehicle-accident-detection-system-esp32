@@ -63,7 +63,8 @@ See Block_Diagram.png
 
 ## Simulation Platform
 
-Wokwi Simulator
+<img width="459" height="459" alt="image" src="https://github.com/user-attachments/assets/d9b2a61a-59e6-4dd3-aad4-b6221b204d3a" />
+
 
 ---
 
@@ -71,11 +72,15 @@ Wokwi Simulator
 
 ### Safe Condition
 
+<img width="460" height="440" alt="image" src="https://github.com/user-attachments/assets/637451ed-5804-43a9-94ee-8bf3a9a03d7f" />
+
 - OLED displays SAFE
 - LED OFF
 - Buzzer OFF
 
 ### Accident Condition
+
+<img width="403" height="408" alt="image" src="https://github.com/user-attachments/assets/7cccc8dc-ea3c-4ea9-bcbc-396ba0ad5631" />
 
 - OLED displays ACCIDENT
 - LED ON
@@ -94,7 +99,7 @@ Wokwi Simulator
 
 ## Author
 
-Govindhan G
+Govindhan S
 
 Department of Electronics and Communication Engineering
 
